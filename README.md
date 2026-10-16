@@ -24,8 +24,8 @@ h1{font-size:30px;line-height:1.1;font-weight:800;margin:0 0 6px;letter-spacing:
 .verdict small{display:block;font-weight:400;font-size:15px;margin-top:4px;color:var(--ink)}
 .ok{background:var(--okbg);color:var(--ok)}.no{background:var(--nobg);color:var(--no)}.warn{background:var(--warnbg);color:var(--warn)}
 table{width:100%;border-collapse:collapse;margin-top:16px;background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;font-size:15px}
-th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line)}th{background:#3f4852;color:#ffb347;font-weight:800}
-tr:last-child td{border-bottom:0}tr.hit td{background:var(--okbg);font-weight:600}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line)}th{background:#3f4852;color:#ffb347;font-weight:800}td{background:#4b545e;color:#ffb347;font-weight:700}
+tr:last-child td{border-bottom:0}tr.hit td{background:#1d5c3c;color:#ffd27a;font-weight:800}
 .wrap{overflow-x:auto}
 .sug button{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:6px 10px;margin:8px 8px 0 0;font:600 14px "Public Sans",system-ui,sans-serif;cursor:pointer}
 .foot{margin-top:30px;font-size:13px;color:var(--mute)}
