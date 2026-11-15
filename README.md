@@ -249,7 +249,7 @@
 
 <body>
   <main>
-    <h1>Na kojoj je ruti ova adresa?</h1>
+    <h1>Na kojoj je ruti ova adresa? v0.9.6</h1>
     <p class="sub">Upišite ulicu i kućni broj, npr. <b>Gradačačka 1</b>, da vidite kojoj ruti pripada.</p>
     <form class="plate" id="f" autocomplete="off" onsubmit="return false">
       <input id="q" list="streets" placeholder="Ulica i broj" aria-label="Ulica i kućni broj" autofocus>
